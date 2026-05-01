@@ -1,0 +1,161 @@
+#,Location Name,Full Address / Description,Latitude,Longitude,Mentions
+1,Kansas City,"Kansas City, MO",39.0997,-94.5786,195
+2,Arrowhead Stadium,"Arrowhead Stadium, Kansas City, MO",39.0489,-94.4839,194
+3,Denver,"Denver, CO",39.7392,-104.9903,73
+4,Kansas,Kansas,38.5266,-96.7265,46
+5,Missouri,Missouri,38.5739,-92.6038,45
+6,San Diego,"San Diego, CA",32.7157,-117.1611,38
+7,St. Louis,"St. Louis, MO",38.627,-90.1994,34
+8,Washington,"Washington, D.C.",38.9072,-77.0369,33
+9,Seattle,"Seattle, WA",47.6062,-122.3321,31
+10,Miami,"Miami, FL",25.7617,-80.1918,28
+11,Jackson County,"Jackson County, MO",39.05,-94.35,24
+12,Chicago,"Chicago, IL",41.8781,-87.6298,23
+13,Texas,Texas,31.9686,-99.9018,21
+14,New York,"New York, NY",40.7128,-74.006,21
+15,Indianapolis,"Indianapolis, IN",39.7684,-86.1581,19
+16,San Francisco,"San Francisco, CA",37.7749,-122.4194,19
+17,Mile High Stadium,"Mile High Stadium, Denver, CO",39.7439,-105.0201,18
+18,Foxborough,"Foxborough, MA",42.0654,-71.2481,17
+19,Los Angeles,"Los Angeles, CA",34.0522,-118.2437,16
+20,California,California,36.7783,-119.4179,16
+21,New Orleans,"New Orleans, LA",29.9511,-90.0715,14
+22,Cleveland,"Cleveland, OH",41.4993,-81.6944,14
+23,Florida,Florida,27.9944,-81.7603,14
+24,Tennessee,Tennessee,35.5175,-86.5804,12
+25,Columbia,"Columbia, MO",38.9517,-92.3341,12
+26,Oakland,"Oakland, CA",37.8044,-122.2712,12
+27,Atlanta,"Atlanta, GA",33.749,-84.388,11
+28,United States,United States,39.8283,-98.5795,11
+29,Houston,"Houston, TX",29.7604,-95.3698,10
+30,Pittsburgh,"Pittsburgh, PA",40.4406,-79.9959,10
+31,Minnesota,Minnesota,46.7296,-94.6859,10
+32,Ohio,Ohio,40.4173,-82.9071,9
+33,Las Vegas,"Las Vegas, NV",36.1699,-115.1398,8
+34,Joe Robbie Stadium,"Joe Robbie Stadium, Miami, FL",25.958,-80.2389,8
+35,Dallas,"Dallas, TX",32.7767,-96.797,8
+36,Arizona,Arizona,34.0489,-111.0937,8
+37,Municipal Stadium,"Municipal Stadium, Kansas City, MO",39.0753,-94.556,8
+38,Detroit,"Detroit, MI",42.3314,-83.0458,7
+39,Tampa,"Tampa, FL",27.9506,-82.4572,7
+40,Canton,"Canton, OH",40.7989,-81.3784,6
+41,Buffalo,"Buffalo, NY",42.8864,-78.8784,6
+42,Baltimore,"Baltimore, MD",39.2904,-76.6122,6
+43,Michigan,Michigan,44.3148,-85.6024,6
+44,Kingdome,"Kingdome, Seattle, WA",47.5952,-122.3316,6
+45,Charlotte,"Charlotte, NC",35.2271,-80.8431,6
+46,Oakland Coliseum,"Oakland Coliseum, Oakland, CA",37.7516,-122.2005,6
+47,Jefferson City,"Jefferson City, MO",38.5767,-92.1735,5
+48,Jack Murphy Stadium,"Jack Murphy Stadium, San Diego, CA",32.7831,-117.1196,5
+49,Jacksonville,"Jacksonville, FL",30.3322,-81.6557,5
+50,Hickman Mills,"Hickman Mills, Kansas City, MO",38.9256,-94.515,5
+51,Iowa,Iowa,41.878,-93.0977,5
+52,Osawatomie,"Osawatomie, KS",38.4972,-94.9513,5
+53,Colorado,Colorado,39.5501,-105.7821,5
+54,Oklahoma,Oklahoma,35.4676,-97.5164,5
+55,Independence,"Independence, MO",39.0911,-94.4155,4
+56,MetLife Stadium,"MetLife Stadium, East Rutherford, NJ",40.8128,-74.0742,4
+57,Tokyo,"Tokyo, Japan",35.6762,139.6503,4
+58,Philadelphia,"Philadelphia, PA",39.9526,-75.1652,4
+59,Kemper Arena,"Kemper Arena, Kansas City, MO",39.11,-94.5942,4
+60,Metrodome,"Metrodome, Minneapolis, MN",44.9738,-93.258,4
+61,Qualcomm Stadium,"Qualcomm Stadium, San Diego, CA",32.7831,-117.1196,4
+62,Candlestick Park,"Candlestick Park, San Francisco, CA",37.7133,-122.3864,4
+63,Carolina,Carolina,34.0,-80.0,3
+64,Georgia Dome,"Georgia Dome, Atlanta, GA",33.7577,-84.4008,3
+65,Louisiana,Louisiana,30.9843,-91.9623,3
+66,Trans World Dome,"Trans World Dome, St. Louis, MO",38.6328,-90.1885,3
+67,Syracuse,"Syracuse, KS",37.9803,-101.7517,3
+68,Topeka,"Topeka, KS",39.0473,-95.6752,3
+69,Cherry Hill,"Cherry Hill, NJ",39.9348,-74.9939,3
+70,Raytown,"Raytown, MO",39.0086,-94.4636,3
+71,Alabama,Alabama,32.3182,-86.9023,3
+72,Superdome,"Superdome, New Orleans, LA",29.9511,-90.0812,3
+73,Arkansas,Arkansas,34.7465,-92.2896,3
+74,Columbus,"Columbus, OH",39.9612,-82.9988,2
+75,Jackson County Courthouse,"Jackson County Courthouse, Kansas City, MO",39.1004,-94.5784,2
+76,England,England,52.3555,-1.1743,2
+77,Country Club Plaza,"Country Club Plaza, Kansas City, MO",39.0431,-94.5884,2
+78,Calgary,"Calgary, Canada",51.0447,-114.0719,2
+79,Ottawa,"Ottawa, KS",38.6156,-95.2678,2
+80,Springfield,"Springfield, MO",37.209,-93.2923,2
+81,Little Rock,"Little Rock, AR",34.7465,-92.2896,2
+82,Indiana,Indiana,40.2672,-86.1349,2
+83,Rich Stadium,"Rich Stadium, Orchard Park, NY",42.7738,-78.787,2
+84,Minneapolis,"Minneapolis, MN",44.9778,-93.265,2
+85,Cincinnati,"Cincinnati, OH",39.1031,-84.512,2
+86,North Carolina,North Carolina,35.7596,-79.0193,2
+87,Texas Stadium,"Texas Stadium, Irving, TX",32.8404,-96.9714,2
+88,Martin City,"Martin City, Kansas City, MO",38.8909,-94.5732,2
+89,Indonesia,Indonesia,-0.7893,113.9213,2
+90,Nebraska,Nebraska,41.4925,-99.9018,2
+91,Nigeria,Nigeria,9.082,8.6753,2
+92,New Jersey,New Jersey,40.0583,-74.4057,2
+93,Portland,"Portland, OR",45.5152,-122.6784,2
+94,Billings,"Billings, MT",45.7833,-108.5007,2
+95,Georgia,Georgia,32.1656,-82.9001,2
+96,Illinois,Illinois,40.6331,-89.3985,2
+97,Macon,"Macon, MO",39.7425,-92.4724,2
+98,Los Angeles Memorial Coliseum,"Los Angeles Memorial Coliseum, CA",34.0141,-118.2879,2
+99,Astrodome,"Astrodome, Houston, TX",29.6847,-95.4107,2
+100,Hard Rock Stadium,"Hard Rock Stadium, Miami, FL",25.958,-80.2389,2
+101,Busch Stadium,"Busch Stadium, St. Louis, MO",38.6226,-90.1928,2
+102,East Lansing,"East Lansing, MI",42.737,-84.4839,1
+103,Liberty,"Liberty, MO",39.2461,-94.4191,1
+104,River Falls,"River Falls, WI",44.8613,-92.6238,1
+105,Barcelona,"Barcelona, Spain",41.3874,2.1686,1
+106,Selma,"Selma, AL",32.4074,-87.0211,1
+107,Japan,Japan,36.2048,138.2529,1
+108,Jersey City,"Jersey City, NJ",40.7178,-74.0431,1
+109,Cleveland Stadium,"Cleveland Stadium, Cleveland, OH",41.5107,-81.6996,1
+110,Phoenix,"Phoenix, AZ",33.4484,-112.074,1
+111,Mason City,"Mason City, IA",43.1536,-93.201,1
+112,Chillicothe,"Chillicothe, MO",39.7953,-93.5524,1
+113,Galveston,"Galveston, TX",29.3013,-94.7977,1
+114,Austin,"Austin, TX",30.2672,-97.7431,1
+115,Honolulu,"Honolulu, HI",21.3069,-157.8583,1
+116,Syracuse,"Syracuse, NY",43.0481,-76.1474,1
+117,Baton Rouge,"Baton Rouge, LA",30.4515,-91.1871,1
+118,West Africa,West Africa,8.7832,-1.0232,1
+119,Wichita,"Wichita, KS",37.6872,-97.3301,1
+120,Giants Stadium,"Giants Stadium, East Rutherford, NJ",40.8128,-74.0742,1
+121,Pasadena,"Pasadena, CA",34.1478,-118.1445,1
+122,Chula Vista,"Chula Vista, CA",32.6401,-117.0842,1
+123,Orchard Park,"Orchard Park, NY",42.7573,-78.744,1
+124,Hong Kong,Hong Kong,22.3193,114.1694,1
+125,Singapore,Singapore,1.3521,103.8198,1
+126,Malaysia,Malaysia,4.2105,101.9758,1
+127,Taiwan,Taiwan,23.6978,120.9605,1
+128,Starkville,"Starkville, MS",33.4504,-88.8184,1
+129,Boulder,"Boulder, CO",40.015,-105.2705,1
+130,University of Missouri,"University of Missouri, Columbia, MO",38.9404,-92.3277,1
+131,Alltel Stadium,"Alltel Stadium, Jacksonville, FL",30.3239,-81.6373,1
+132,Norman,"Norman, OK",35.2226,-97.4395,1
+133,Kansas City,"Kansas City, KS",39.1155,-94.6268,1
+134,Spain,Spain,40.4637,-3.7492,1
+135,Bessemer,"Bessemer, AL",33.4018,-86.9544,1
+136,Kentucky,Kentucky,37.8393,-84.27,1
+137,Libya,Libya,26.3351,17.2283,1
+138,Tulane Stadium,"Tulane Stadium, New Orleans, LA",29.9363,-90.0728,1
+139,Covington,"Covington, KY",39.0837,-84.5086,1
+140,Pontiac Silverdome,"Pontiac Silverdome, Pontiac, MI",42.6456,-83.2558,1
+141,Hershey,"Hershey, PA",40.2857,-76.6505,1
+142,Boonville,"Boonville, MO",38.9736,-92.7432,1
+143,Dominican Republic,Dominican Republic,18.7357,-70.1627,1
+144,Virginia,Virginia,37.4316,-78.6569,1
+145,Toronto,"Toronto, Canada",43.6532,-79.3832,1
+146,Montana,Montana,46.8797,-110.3626,1
+147,Municipal Auditorium,"Municipal Auditorium, Kansas City, MO",39.1001,-94.581,1
+148,Joplin,"Joplin, MO",37.0842,-94.5133,1
+149,Crown Center,"Crown Center, Kansas City, MO",39.0824,-94.5835,1
+150,Blue Springs,"Blue Springs, MO",39.0169,-94.2816,1
+151,Kosovo,Kosovo,42.6026,20.903,1
+152,Yugoslavia,Yugoslavia,44.0165,21.0059,1
+153,Excelsior Springs,"Excelsior Springs, MO",39.3392,-94.2263,1
+154,Pleasant Hill,"Pleasant Hill, MO",38.7892,-94.269,1
+155,Lee's Summit,"Lee's Summit, MO",38.9108,-94.3822,1
+156,Grandview,"Grandview, MO",38.8856,-94.5331,1
+157,Oregon,Oregon,43.8041,-120.5542,1
+158,Gem Theatre,"Gem Theatre, Kansas City, MO",39.1079,-94.5614,1
+159,Mississippi,Mississippi,32.3547,-89.3985,1
+160,Denton,"Denton, TX",33.2148,-97.1331,1
