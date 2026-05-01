@@ -179,9 +179,15 @@
 
   function renderProfile(person) {
     const display = document.getElementById('profile-display');
-    const background = [person['Interesting A'], person['Interesting B'], person['Interesting C']]
-      .filter(t => t)
-      .join(' ');
+    const backgroundFacts = [person['Interesting A'], person['Interesting B'], person['Interesting C']]
+      .filter(t => t);
+    const background = backgroundFacts.length
+      ? backgroundFacts.map(fact => `
+          <p class="font-body text-on-surface leading-relaxed opacity-90 flex gap-3">
+            <span class="text-secondary font-bold mt-0.5 flex-shrink-0">•</span>
+            <span>${fact}</span>
+          </p>`).join('')
+      : '';
 
     display.innerHTML = `
       <div class="bg-surface-container-lowest p-12 rounded-xl shadow-[24px_24px_0_0_#efefd7] relative overflow-hidden transform rotate-1">
@@ -220,9 +226,9 @@
             <div class="space-y-6">
               <div class="space-y-2">
                 <h4 class="label-caps text-secondary">Personnel Background</h4>
-                <p class="font-body text-on-surface leading-relaxed opacity-90">
-                  ${background || 'No biographical data available in the master ledger.'}
-                </p>
+                <div class="flex flex-col gap-3">
+                  ${background || '<p class="font-body text-on-surface leading-relaxed opacity-90 italic">No biographical data available in the master ledger.</p>'}
+                </div>
               </div>
             </div>
           </div>
